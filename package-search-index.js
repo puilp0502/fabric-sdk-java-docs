@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"org.hyperledger.fabric_ca.sdk"},{"l":"org.hyperledger.fabric_ca.sdk.exception"},{"l":"org.hyperledger.fabric.sdk"},{"l":"org.hyperledger.fabric.sdk.exception"}]
