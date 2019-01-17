@@ -1,4 +1,6 @@
-org.hyperledger.fabric_ca.sdk
-org.hyperledger.fabric_ca.sdk.exception
 org.hyperledger.fabric.sdk
 org.hyperledger.fabric.sdk.exception
+org.hyperledger.fabric.sdk.identity
+org.hyperledger.fabric.sdk.user
+org.hyperledger.fabric_ca.sdk
+org.hyperledger.fabric_ca.sdk.exception
